@@ -1,5 +1,26 @@
 # @openai/agents
 
+## 0.11.2
+
+### Patch Changes
+
+- aee260e: fix: add opt-in strict feature validation for Chat Completions models
+- Updated dependencies [3f855d4]
+- Updated dependencies [077876e]
+- Updated dependencies [aee260e]
+- Updated dependencies [9e6d1e3]
+- Updated dependencies [2b5c8d2]
+- Updated dependencies [c5731d1]
+- Updated dependencies [81508e8]
+- Updated dependencies [8d2f707]
+- Updated dependencies [454f0b7]
+- Updated dependencies [6883833]
+- Updated dependencies [a3d28b1]
+- Updated dependencies [b0d2a68]
+  - @openai/agents-core@0.11.2
+  - @openai/agents-openai@0.11.2
+  - @openai/agents-realtime@0.11.2
+
 ## 0.11.1
 
 ### Patch Changes
